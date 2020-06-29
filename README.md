@@ -5,4 +5,4 @@ In this section I will make it for data structures and algorithms.
 
 If in case you are in trouble of understanding any type of code free feel to mail me or mention in the comment section.
 
-mail id:   harshdhiman9484@gmail.com
+email id:   harshdhiman9484@gmail.com
