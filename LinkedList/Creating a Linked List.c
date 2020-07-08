@@ -1,10 +1,4 @@
-//
-//  main.c
-//  C Queue
-//
-//  Created by Harsh kumar on 18/06/20.
-//  Copyright © 2020 Harsh kumar. All rights reserved.
-//
+
 
 #include<stdio.h>
 #include<stdlib.h>
