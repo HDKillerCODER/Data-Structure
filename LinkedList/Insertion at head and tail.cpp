@@ -8,6 +8,15 @@ public:
 Node* p = NULL;
 Node* head = NULL;
 Node* tail;
+void display(Node* p)
+{
+   while(p)
+   {
+      cout << p->data << " ";
+      p = p->next;
+   }
+   cout << endl;
+}
 void createodd(int data, int i)
 {
     if(i % 2 == 1)
